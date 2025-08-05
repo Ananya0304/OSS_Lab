@@ -24,6 +24,4 @@ scanf("%d",&col);
         }
         printf("\n");
     }
-
-
 }
